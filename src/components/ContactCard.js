@@ -1,5 +1,5 @@
 import React from 'react'
-import abc from '../images/abc.jpeg'
+import abc from '../images/abc.jpg'
 const CardContact = (props) =>{
     const {id,name,email}=props.contact;
     return (
